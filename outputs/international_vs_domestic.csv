@@ -1,0 +1,3 @@
+transaction_scope,transaction_count,completed_count,declined_count,pending_count,reversed_count,failure_rate_pct,fraud_flag_rate_pct,attempted_value_gbp,completed_value_gbp,fee_revenue_gbp
+Domestic,1200,175,425,300,300,60.42,18.75,1463724.37,45108.86,587.28
+International,300,50,100,75,75,58.33,25.00,433543.38,3824.69,162.89

@@ -1,0 +1,5 @@
+customer_segment,transaction_count,customer_count,failed_count,failure_rate_pct,fraud_flagged_count,fraud_flag_rate_pct,attempted_value_gbp,fee_revenue_gbp
+Standard,450,6,300,66.67,75,16.67,273888.96,75.03
+Premium,375,5,150,40.00,150,40.00,1200687.85,187.27
+Starter,375,5,150,40.00,0,0.00,253480.94,187.50
+Business,300,4,300,100.00,75,25.00,169210.00,300.37

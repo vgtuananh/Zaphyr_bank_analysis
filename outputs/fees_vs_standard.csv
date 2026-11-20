@@ -1,0 +1,16 @@
+transaction_type_id,type_name,channel,transaction_scope,standard_fee_gbp,transaction_count,under_charged_rows,exactly_charged_rows,over_charged_rows,zero_fee_rows,actual_fee_total_gbp,standard_fee_total_gbp,fee_gap_total_gbp,minimum_actual_fee_gbp,maximum_actual_fee_gbp
+6,Transfer - International,Web Browser,International,2.50,100,100,0,0,75,25.12,250.00,-224.88,0.00,1.15
+5,Transfer - International,Mobile App,International,2.50,100,100,0,0,50,75.27,250.00,-174.73,0.00,1.73
+8,ATM Withdrawal,ATM Network,International,1.50,100,75,0,25,75,62.50,150.00,-87.50,0.00,2.88
+13,Crypto Purchase,Mobile App,Domestic,1.00,100,75,0,25,75,62.88,100.00,-37.12,0.00,2.88
+2,Purchase,Web Browser,Domestic,0.00,100,0,100,0,100,0.00,0.00,0.00,0.00,0.00
+7,ATM Withdrawal,ATM Network,Domestic,0.00,100,0,100,0,100,0.00,0.00,0.00,0.00,0.00
+12,Card Refund,Mobile App,Domestic,0.00,100,0,100,0,100,0.00,0.00,0.00,0.00,0.00
+1,Purchase,Mobile App,Domestic,0.00,100,0,75,25,75,24.76,0.00,24.76,0.00,1.15
+11,Salary Credit,Automated,Domestic,0.00,100,0,75,25,75,24.94,0.00,24.94,0.00,1.15
+3,Transfer - Outbound,Mobile App,Domestic,0.00,100,0,75,25,75,62.12,0.00,62.12,0.00,2.88
+15,Loan Repayment,Automated,Domestic,0.00,100,0,50,50,50,75.00,0.00,75.00,0.00,1.73
+10,Standing Order,Automated,Domestic,0.00,100,0,50,50,50,75.05,0.00,75.05,0.00,1.73
+14,Savings Pot Transfer,Mobile App,Domestic,0.00,100,0,50,50,50,87.06,0.00,87.06,0.00,2.88
+4,Transfer - Outbound,Web Browser,Domestic,0.00,100,0,50,50,50,87.47,0.00,87.47,0.00,2.88
+9,Direct Debit,Automated,Domestic,0.00,100,0,50,50,50,88.00,0.00,88.00,0.00,2.88

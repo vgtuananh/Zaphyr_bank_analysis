@@ -1,0 +1,5 @@
+transaction_status,transaction_count,fee_revenue_gbp
+Completed,225,0.00
+Declined,525,375.19
+Pending,375,262.53
+Reversed,375,112.45

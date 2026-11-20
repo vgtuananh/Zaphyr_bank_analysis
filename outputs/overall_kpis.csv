@@ -1,0 +1,2 @@
+transaction_count,customer_count,transaction_type_count,completed_count,declined_count,pending_count,reversed_count,failure_rate_pct,declined_rate_pct,pending_rate_pct,fraud_flagged_count,fraud_flag_rate_pct,attempted_value_gbp,completed_value_gbp,fee_revenue_gbp,completed_fee_revenue_gbp,failed_without_reason_count,failed_count
+1500,20,15,225,525,375,375,60.00,35.00,25.00,300,20.00,1897267.75,48933.55,750.17,0.00,600,900

@@ -1,0 +1,16 @@
+transaction_type_id,type_name,channel,transaction_scope,transaction_count,attempted_value_gbp,completed_value_gbp,fee_revenue_gbp,standard_fee_gbp,failure_rate_pct,fraud_flag_rate_pct
+1,Purchase,Mobile App,Domestic,100,13614.37,812.50,24.76,0.00,50.00,25.00
+2,Purchase,Web Browser,Domestic,100,156307.08,0.00,0.00,0.00,75.00,0.00
+3,Transfer - Outbound,Mobile App,Domestic,100,40344.90,3029.09,62.12,0.00,50.00,0.00
+4,Transfer - Outbound,Web Browser,Domestic,100,43350.95,12515.16,87.47,0.00,50.00,25.00
+5,Transfer - International,Mobile App,International,100,379229.41,0.00,75.27,2.50,75.00,50.00
+6,Transfer - International,Web Browser,International,100,13770.88,817.42,25.12,2.50,50.00,25.00
+7,ATM Withdrawal,ATM Network,Domestic,100,157304.50,0.00,0.00,0.00,75.00,0.00
+8,ATM Withdrawal,ATM Network,International,100,40543.09,3007.27,62.50,1.50,50.00,0.00
+9,Direct Debit,Automated,Domestic,100,43524.72,12530.30,88.00,0.00,50.00,25.00
+10,Standing Order,Automated,Domestic,100,376516.57,0.00,75.05,0.00,75.00,50.00
+11,Salary Credit,Automated,Domestic,100,13705.13,811.51,24.94,0.00,50.00,25.00
+12,Card Refund,Mobile App,Domestic,100,156806.78,0.00,0.00,0.00,75.00,0.00
+13,Crypto Purchase,Mobile App,Domestic,100,40317.32,2970.91,62.88,1.00,50.00,0.00
+14,Savings Pot Transfer,Mobile App,Domestic,100,43163.09,12439.39,87.06,0.00,50.00,25.00
+15,Loan Repayment,Automated,Domestic,100,378768.96,0.00,75.00,0.00,75.00,50.00

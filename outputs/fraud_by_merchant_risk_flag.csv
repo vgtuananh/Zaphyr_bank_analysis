@@ -1,0 +1,4 @@
+merchant_risk_flag,transaction_count,fraud_flagged_count,fraud_flag_rate_pct,over_index_vs_overall
+Medium,417,93,22.30,1.12
+High,166,33,19.88,0.99
+Low,917,174,18.97,0.95

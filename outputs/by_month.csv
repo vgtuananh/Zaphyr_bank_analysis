@@ -1,0 +1,6 @@
+txn_month,transaction_count,completed_count,declined_count,pending_count,reversed_count,failure_rate_pct,declined_rate_pct,fraud_flag_rate_pct,attempted_value_gbp,completed_value_gbp,fee_revenue_gbp
+2026-01,304,35,114,72,83,64.80,37.50,24.34,465168.28,6483.45,152.60
+2026-02,283,46,102,75,60,57.24,36.04,18.73,359629.84,9565.68,133.97
+2026-03,322,51,106,83,82,58.39,32.92,19.88,416764.69,11749.74,163.41
+2026-04,279,44,92,73,70,58.06,32.97,13.26,263965.85,10571.74,150.72
+2026-05,312,49,111,72,80,61.22,35.58,23.08,391739.09,10562.94,149.47

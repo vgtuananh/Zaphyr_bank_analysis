@@ -1,0 +1,11 @@
+transaction_id,transaction_date,customer_id,customer_name,transaction_type,transaction_status,attempted_amount_gbp,fee_charged_gbp,failed_reason
+220,2026-01-18,20,Rajan Mehta,Standing Order,Reversed,17272.73,1.73,Fraud Suspected
+440,2026-05-23,20,Rajan Mehta,Transfer - International,Reversed,17272.73,1.73,Fraud Suspected
+660,2026-02-13,20,Rajan Mehta,Loan Repayment,Reversed,17272.73,1.73,Fraud Suspected
+880,2026-01-06,20,Rajan Mehta,Standing Order,Reversed,17272.73,1.73,Fraud Suspected
+1100,2026-04-12,20,Rajan Mehta,Transfer - International,Reversed,17272.73,1.73,Fraud Suspected
+1320,2026-05-11,20,Rajan Mehta,Loan Repayment,Reversed,17272.73,1.73,Fraud Suspected
+120,2026-01-25,20,Rajan Mehta,Loan Repayment,Reversed,16818.18,1.68,Fraud Suspected
+340,2026-03-03,20,Rajan Mehta,Standing Order,Reversed,16818.18,1.68,Fraud Suspected
+560,2026-05-02,20,Rajan Mehta,Transfer - International,Reversed,16818.18,1.68,Fraud Suspected
+780,2026-03-27,20,Rajan Mehta,Loan Repayment,Reversed,16818.18,1.68,Fraud Suspected

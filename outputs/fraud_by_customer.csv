@@ -1,0 +1,21 @@
+customer_id,customer_name,transaction_count,fraud_flagged_count,fraud_flag_rate_pct,reversed_count,attempted_value_gbp,completed_value_gbp
+20,Rajan Mehta,75,75,100.00,75,1124545.45,0.00
+6,Daniel Okafor,75,75,100.00,0,33668.18,0.00
+19,Charlotte Lewis,75,75,100.00,0,22434.06,0.00
+10,Mohammed Al-Hassan,75,75,100.00,0,5643.18,0.00
+2,James Whitfield,75,0,0.00,0,240193.94,0.00
+12,Ethan Clarke,75,0,0.00,75,225362.89,0.00
+18,Benjamin Fox,75,0,0.00,0,93446.97,0.00
+14,Samuel Whitmore,75,0,0.00,0,63750.00,0.00
+9,Isabelle Fontaine,75,0,0.00,0,37484.85,37484.85
+3,Sofia Patel,75,0,0.00,0,14249.25,0.00
+13,Fatima Noor,75,0,0.00,0,9007.27,9007.27
+4,Oliver Bennett,75,0,0.00,75,6369.85,0.00
+8,Thomas Hughes,75,0,0.00,75,4501.82,0.00
+11,Grace Elliott,75,0,0.00,0,4232.73,0.00
+17,Aisha Kamara,75,0,0.00,0,3740.91,0.00
+15,Layla Singh,75,0,0.00,0,2547.94,0.00
+1,Amelia Rhodes,75,0,0.00,0,2441.43,2441.43
+5,Chloe Macgregor,75,0,0.00,0,1778.37,0.00
+7,Priya Sharma,75,0,0.00,0,1120.62,0.00
+16,Noah Greenwood,75,0,0.00,75,748.04,0.00

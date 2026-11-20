@@ -1,0 +1,2 @@
+scenario_label,observed_month_count,avg_monthly_transactions,illustrative_h2_transactions,avg_monthly_attempted_value_gbp,illustrative_h2_attempted_value_gbp,avg_monthly_completed_value_gbp,illustrative_h2_completed_value_gbp,avg_monthly_fee_revenue_gbp,illustrative_h2_fee_revenue_gbp
+Illustrative only: observed monthly average multiplied by six months,5,300.00,1800.00,379453.55,2276721.30,9786.71,58720.26,150.03,900.20

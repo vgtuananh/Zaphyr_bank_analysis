@@ -1,0 +1,19 @@
+merchant_category,transaction_count,fraud_flagged_count,fraud_flag_rate_pct,over_index_vs_overall,flagged_attempted_value_gbp
+Fuel,83,26,31.33,1.57,122434.09
+Online Retail,84,26,30.95,1.55,141025.01
+Electronics,83,25,30.12,1.51,124695.45
+Gambling,83,25,30.12,1.51,124579.54
+Loan & Credit,83,25,30.12,1.51,122513.63
+Entertainment,84,25,29.76,1.49,138686.36
+Dining & Restaurants,84,25,29.76,1.49,141922.74
+Subscription Services,83,24,28.92,1.45,125088.64
+Education,83,24,28.92,1.45,122911.35
+Utilities,84,9,10.71,0.54,2636.64
+Travel & Transport,84,9,10.71,0.54,2700.06
+Groceries,84,9,10.71,0.54,2663.82
+Clothing & Fashion,83,8,9.64,0.48,2428.24
+Charity & Donations,83,8,9.64,0.48,2392.00
+Health & Pharmacy,83,8,9.64,0.48,2419.18
+Peer-to-Peer Transfer,83,8,9.64,0.48,2437.30
+Salary / Income,83,8,9.64,0.48,2382.94
+Crypto Exchange,83,8,9.64,0.48,2373.88

@@ -1,0 +1,6 @@
+customer_id,customer_name,customer_segment,transaction_count,fee_revenue_gbp,completed_count,completed_fee_revenue_gbp
+14,Samuel Whitmore,Business,75,187.50,0,0.00
+3,Sofia Patel,Starter,75,187.50,0,0.00
+10,Mohammed Al-Hassan,Business,75,112.87,0,0.00
+20,Rajan Mehta,Premium,75,112.45,0,0.00
+19,Charlotte Lewis,Standard,75,75.03,0,0.00

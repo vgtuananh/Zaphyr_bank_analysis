@@ -1,0 +1,6 @@
+customer_id,customer_name,customer_segment,region,transaction_count,attempted_value_gbp,completed_value_gbp,fraud_flagged_count
+20,Rajan Mehta,Premium,London,75,1124545.45,0.00,75
+2,James Whitfield,Standard,South East,75,240193.94,0.00,0
+12,Ethan Clarke,Starter,South East,75,225362.89,0.00,0
+18,Benjamin Fox,Business,South East,75,93446.97,0.00,0
+14,Samuel Whitmore,Business,Yorkshire,75,63750.00,0.00,0

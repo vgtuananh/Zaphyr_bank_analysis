@@ -1,0 +1,5 @@
+channel,transaction_count,declined_count,failed_count,declined_rate_pct,failure_rate_pct,attempted_value_gbp,fee_revenue_gbp
+ATM Network,200,75,125,37.50,62.50,197847.59,62.50
+Automated,400,150,250,37.50,62.50,812515.38,262.99
+Mobile App,600,200,350,33.33,58.33,673475.87,312.09
+Web Browser,300,100,175,33.33,58.33,213428.91,112.59
